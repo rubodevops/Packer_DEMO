@@ -14,8 +14,8 @@ terraform {
 # Configure the AWS Provider
 provider "aws" {
   region                  = "us-east-2"
-  access_key = "AKIAVYWCE6RPH4A4R52H"
-  secret_key = "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"
+  access_key = "xxxxxxxxxxxxxxxxxxx"
+  secret_key = "xxxxxxxxxxxxxxxxxxx"
   #profile                 = "default"
 }
 
